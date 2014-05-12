@@ -1,0 +1,11 @@
+.wrapper {
+	background: url(../images/cat.jpg);
+  position: fixed;
+  left: 0;
+  right: 0;
+  top:0;
+  bottom: 0;
+	font-size: 50px;
+	font-family: Arial;
+  color: white;
+}
