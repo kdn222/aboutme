@@ -1,5 +1,6 @@
 .wrapper {
 	background: url(../images/cat.jpg);
+  /*background-size: 100% 100%;*/
   position: fixed;
   left: 0;
   right: 0;
@@ -48,8 +49,30 @@ font-family: Arial;
 a{
   font-size: 30px;
 }
+#mylist {
+position: relative;
+height: 16px;
+margin: 20;
+margin-left: 19px;
+}
 
+#facebook {
+  left:0px;
+  width:16px;
+  background: url(../images/fb.png)-16px 0;
+}
 
-/*.center*/
-do kształtów
-/*border-radius: 50px;*/
+.center
+/*do kształtów*/
+{
+  border-radius: 5px;
+  width: 40px;
+  height: 40px;
+  background: rgba(225,225,210,0.5);
+  float: left;
+}
+
+.button
+{
+
+}
